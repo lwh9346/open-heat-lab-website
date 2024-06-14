@@ -180,6 +180,7 @@
 // See https://caniuse.com/#feat=mdn-css_properties_width_stretch .
 .navbar-brand img {
   width: auto;
+  display: inline-block;
   height: -moz-available;
   height: -webkit-fill-available;
   height: -webkit-stretch;
