@@ -5,17 +5,34 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
+  - block: slider
     content:
-      title: |
-        Wowchemy
-        Research Group
-      image:
-        filename: welcome.jpg
-      text: |
-        <br>
-        
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+      slides:
+        - title: Open Heat Lab
+          content: Our lab explores at the intersections of thermal science, nanotechnology, and ultrafast physics, with a focus on probing mechanisms and pushing limits.
+          align: left
+          align_content: "align-items-end"
+          text_shadow: "2px 2px 8px #000"
+          background:
+            image:
+              # Specify an image from `assets/media/`
+              # or delete the image section to remove it
+              filename: team.jpeg
+              filters:
+                brightness: 1
+              size: contain
+            position: left
+            color: '#fff'
+    design:
+      # Slide height is automatic unless you force a specific height (e.g. '400px')
+      slide_height: ''
+      # Make the slides full screen within the browser window?
+      is_fullscreen: true
+      # Automatically transition through slides?
+      loop: false
+      # Duration of transition between slides (in ms)
+      interval: 5000
+
   
   - block: collection
     content:
