@@ -22,7 +22,7 @@
 
     {{ $query := where .Pages ".IsNode" false }}
     {{ $count := len $query }}
-    {{ if $count }}
+    {{ if and $count site.Params.features.show_author_publications }}
     <div class="article-widget content-widget-hr">
       <h3>{{ i18n "user_profile_latest" | default "Latest" }}</h3>
       <ul>
