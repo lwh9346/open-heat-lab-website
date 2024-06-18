@@ -13,6 +13,13 @@
       <br>
     {{ end }}
 
+    {{ if .Params.bio }}
+      <h3>Bio</h3>
+      <p class="pub-abstract">{{ .Params.bio | markdownify | emojify }}</p>
+    {{ else }}
+      <br>
+    {{ end }}
+
     <div class="row">
       <div class="col-md-1"></div>
       <div class="col-md-10">
