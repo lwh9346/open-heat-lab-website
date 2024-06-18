@@ -25,7 +25,7 @@ organizations:
     url: 'https://www.pku.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Getting started.
+bio: Weiheng Li's research interest lies in chip cooling and physics informed neural networks. He obtained a Bachelor of Science degree at the College of Engineering, Peking University.
 
 education:
   courses:
@@ -59,4 +59,4 @@ user_groups:
   - Ph.D. Students
 ---
 
-Getting started.
+Weiheng Li's research interest lies in chip cooling and physics informed neural networks. He obtained a Bachelor of Science degree at the College of Engineering, Peking University.

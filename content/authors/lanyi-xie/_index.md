@@ -25,7 +25,7 @@ organizations:
     url: 'https://www.pku.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD candidate in Professor Song's group. I received my bachelor's degree in Hydraulic Engineering from Wuhan University in 2020. My research interests include fluctuation-induced phenomena such as near-field radiative heat transfer and the Casimir force.
+bio: Lanyi Xie is a PhD candidate. She received her bachelor's degree in Hydraulic Engineering from Wuhan University in 2020. Her research interests include fluctuation-induced phenomena such as near-field radiative heat transfer and the Casimir force.
 
 education:
   courses:
@@ -63,4 +63,4 @@ user_groups:
   - Ph.D. Students
 ---
 
-I am a PhD candidate in Professor Song's group. I received my bachelor's degree in Hydraulic Engineering from Wuhan University in 2020. My research interests include fluctuation-induced phenomena such as near-field radiative heat transfer and the Casimir force.
+Lanyi Xie is a PhD candidate. She received her bachelor's degree in Hydraulic Engineering from Wuhan University in 2020. Her research interests include fluctuation-induced phenomena such as near-field radiative heat transfer and the Casimir force.

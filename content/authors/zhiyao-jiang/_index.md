@@ -25,7 +25,7 @@ organizations:
     url: 'https://www.pku.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Zhiyao, Jiang received an M.S. degree in Engineering Thermophysics from Beihang University in 2016. He is currently working toward a Ph.D. degree in mechanics(Energy and Resources Engineering) at Peking University. His research interests include thermal management of electronics, spacecraft thermal control, micro-nanoscale heat transport, and thermal measurement technology.
+bio: Zhiyao Jiang received an M.S. degree in Engineering Thermophysics from Beihang University in 2016. He is currently working toward a Ph.D. degree in mechanics(Energy and Resources Engineering) at Peking University. His research interests include thermal management of electronics, spacecraft thermal control, micro-nanoscale heat transport, and thermal measurement technology.
 
 education:
   courses:
@@ -60,4 +60,4 @@ user_groups:
   - Ph.D. Students
 ---
 
-Zhiyao, Jiang received an M.S. degree in Engineering Thermophysics from Beihang University in 2016. He is currently working toward a Ph.D. degree in mechanics(Energy and Resources Engineering) at Peking University. His research interests include thermal management of electronics, spacecraft thermal control, micro-nanoscale heat transport, and thermal measurement technology.
+Zhiyao Jiang received an M.S. degree in Engineering Thermophysics from Beihang University in 2016. He is currently working toward a Ph.D. degree in mechanics(Energy and Resources Engineering) at Peking University. His research interests include thermal management of electronics, spacecraft thermal control, micro-nanoscale heat transport, and thermal measurement technology.

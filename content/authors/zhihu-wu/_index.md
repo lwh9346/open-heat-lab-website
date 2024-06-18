@@ -25,7 +25,7 @@ organizations:
     url: 'https://www.pku.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Zhihu, Wu received the M. S. Degree in science in armament science and technology from Beijing Institute of Technology, Beijing, China, in 2017. He is currently working toward the ph.D. degree in mechanics with Peking University, Beijing, China.  His research interests include microsystem integration and thermal management technology,  advanced packaging, and microfluidics.
+bio: Zhihu Wu received the M. S. Degree in science in armament science and technology from Beijing Institute of Technology, Beijing, China, in 2017. He is currently working toward the ph.D. degree in mechanics with Peking University, Beijing, China.  His research interests include microsystem integration and thermal management technology,  advanced packaging, and microfluidics.
 
 education:
   courses:
@@ -59,4 +59,4 @@ user_groups:
   - Ph.D. Students
 ---
 
-Zhihu, Wu received the M. S. Degree in science in armament science and technology from Beijing Institute of Technology, Beijing, China, in 2017. He is currently working toward the ph.D. degree in mechanics with Peking University, Beijing, China.  His research interests include microsystem integration and thermal management technology,  advanced packaging, and microfluidics.
+Zhihu Wu received the M. S. Degree in science in armament science and technology from Beijing Institute of Technology, Beijing, China, in 2017. He is currently working toward the ph.D. degree in mechanics with Peking University, Beijing, China.  His research interests include microsystem integration and thermal management technology,  advanced packaging, and microfluidics.

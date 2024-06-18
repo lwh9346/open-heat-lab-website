@@ -25,7 +25,7 @@ organizations:
     url: 'https://www.pku.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Song Bai, graduated from Tsinghua University and is currently a Distinguished Research Fellow at the Department of Energy and Resource Engineering, College of Engineering, Peking University
+bio: Bai Song is a renowned researcher and doctoral supervisor at Peking University’s College of Engineering, specializing in energy and resources engineering. He holds a Bachelor’s and Master’s from Tsinghua University, and a Ph.D. from the University of Michigan, Ann Arbor. His postdoctoral work took place at MIT and the University of Michigan, Ann Arbor. He focuses on heat phenomena and carriers at atomic and temporal scales, using nanotechnology and femtosecond lasers.
 
 #education:
 #  courses:
@@ -59,4 +59,4 @@ user_groups:
   - Principal Investigator
 ---
 
-Song Bai, graduated from Tsinghua University and is currently a Distinguished Research Fellow at the Department of Energy and Resource Engineering, College of Engineering, Peking University
+Bai Song is a renowned researcher and doctoral supervisor at Peking University’s College of Engineering, specializing in energy and resources engineering. He holds a Bachelor’s and Master’s from Tsinghua University, and a Ph.D. from the University of Michigan, Ann Arbor. His postdoctoral work took place at MIT and the University of Michigan, Ann Arbor. He focuses on heat phenomena and carriers at atomic and temporal scales, using nanotechnology and femtosecond lasers.

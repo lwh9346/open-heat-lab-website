@@ -25,7 +25,7 @@ organizations:
     url: 'https://www.pku.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Her research interest includes micro/nanoscale thermal transport modulations and characterizations.
+bio: Wujuan Yan's research interest includes micro/nanoscale thermal transport modulations and characterizations.
 
 education:
   courses:
@@ -60,4 +60,4 @@ user_groups:
   - Ph.D. Students
 ---
 
-Her research interest includes micro/nanoscale thermal transport modulations and characterizations.
+Wujuan Yan's research interest includes micro/nanoscale thermal transport modulations and characterizations.

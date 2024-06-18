@@ -25,7 +25,7 @@ organizations:
     url: 'https://www.pku.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My name is Nianjie Liang. I graduated from Dalian University of Technology with a bachelor’s degree and got the postgraduate recommendation to Beihang University for a master's degree. Now, I am a PhD candidate at Peking University.
+bio: Nianjie Liang graduated from Dalian University of Technology with a bachelor’s degree and got the postgraduate recommendation to Beihang University for a master's degree. Now, he is a PhD candidate at Peking University.
 
 education:
   courses:
@@ -66,4 +66,4 @@ user_groups:
   - Ph.D. Students
 ---
 
-My name is Nianjie Liang. I graduated from Dalian University of Technology with a bachelor’s degree and got the postgraduate recommendation to Beihang University for a master's degree. Now, I am a PhD candidate at Peking University.
+Nianjie Liang graduated from Dalian University of Technology with a bachelor’s degree and got the postgraduate recommendation to Beihang University for a master's degree. Now, he is a PhD candidate at Peking University.

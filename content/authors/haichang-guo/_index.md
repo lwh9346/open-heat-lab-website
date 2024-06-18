@@ -25,7 +25,7 @@ organizations:
     url: 'https://www.pku.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interest mainly focus on micro/nanoscale thermal transport, thermal interface materials, and thermally conductive composites.
+bio: Haichang Guo's research interest mainly focus on micro/nanoscale thermal transport, thermal interface materials, and thermally conductive composites.
 
 education:
   courses:
@@ -59,4 +59,4 @@ user_groups:
   - Postdocs
 ---
 
-My research interest mainly focus on micro/nanoscale thermal transport, thermal interface materials, and thermally conductive composites.
+Haichang Guo's research interest mainly focus on micro/nanoscale thermal transport, thermal interface materials, and thermally conductive composites.

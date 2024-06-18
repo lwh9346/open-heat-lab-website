@@ -25,7 +25,7 @@ organizations:
     url: 'https://www.pku.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: A learner interets in cooling technology.
+bio: Wei Xiao is a learner interets in cooling technology.
 
 education:
   courses:
@@ -57,4 +57,4 @@ user_groups:
   - Ph.D. Students
 ---
 
-A learner interets in cooling technology.
+Wei Xiao is a learner interets in cooling technology.

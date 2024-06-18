@@ -25,7 +25,7 @@ organizations:
     url: 'https://www.pku.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interest focuses on electron and phonon transport in novel materials.
+bio: Wenjiang Zhou's research interest focuses on electron and phonon transport in novel materials.
 
 education:
   courses:
@@ -62,4 +62,4 @@ user_groups:
   - Ph.D. Students
 ---
 
-My research interest focuses on electron and phonon transport in novel materials.
+Wenjiang Zhou's research interest focuses on electron and phonon transport in novel materials.
