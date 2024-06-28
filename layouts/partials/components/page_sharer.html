@@ -1,5 +1,6 @@
 {{ if ne .Params.share false }}
 <div class="share-box">
+  <h4 style="text-align: center;">Share this page</h4>
   <ul class="share">
     {{ range where site.Data.page_sharer.buttons "enable" true }}
       {{ $pack := or .icon_pack "fas" }}
