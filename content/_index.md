@@ -32,10 +32,6 @@ sections:
       loop: false
       # Duration of transition between slides (in ms)
       interval: 5000
-
-
-  
-  
   
   - block: collection
     content:
@@ -55,5 +51,16 @@ sections:
     design:
       view: card
       columns: '1'
+
+  - block: collection
+    content:
+      title: Recent Publications
+      filters:
+        folders:
+          - publication
+      count: 5
+    design:
+      columns: '2'
+      view: compact
     
 ---
