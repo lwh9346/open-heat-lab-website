@@ -17,7 +17,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoc
+role: Alumni
 
 # Organizations/Affiliations
 organizations:
@@ -56,7 +56,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Postdocs
+  - Alumni
 ---
 
 Haichang Guo's research interest mainly focus on micro/nanoscale thermal transport, thermal interface materials, and thermally conductive composites.

@@ -17,7 +17,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Ph.D. Student
+role: Alumni
 
 # Organizations/Affiliations
 organizations:
@@ -57,7 +57,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Ph.D. Students
+  - Alumni
 ---
 
 Wujuan Yan's research interest includes micro/nanoscale thermal transport modulations and characterizations.
