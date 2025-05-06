@@ -28,7 +28,7 @@ publishDate: "2024-03-13T00:00:00Z"
 publication_types: ["preprint"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Arxiv"
 publication_short: ""
 
 abstract: Two-dimensional (2D) crystals proved revolutionary soon after graphene was discovered in 2004. However, 2D amorphous materials only became accessible in 2020 and remain largely unexplored. In particular, the thermophysical properties of amorphous materials are of great interest upon transition from 3D to 2D. Here, we probe thermal transport in 2D amorphous carbon. A cross-plane thermal conductivity (κ) down to 0.079 Wm−1K−1 is measured for van der Waals stacked multilayers at room temperature, which is among the lowest reported to date. Meanwhile, an unexpectedly high in-plane κ is obtained for freestanding monolayers which is a few times larger than what is predicted by conventional wisdom for 3D amorphous carbon with similar sp2 fraction. Our molecular dynamics simulations reveal the role of disorder and highlight the impact of dimensionality. Amorphous materials at the 2D limit open up new avenues for understanding and manipulating heat at the atomic scale.
